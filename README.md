@@ -20,7 +20,7 @@ A simple weather application that allows users to get real-time weather informat
 ## Getting Started
 To run the application locally, follow these steps:
 
-1. Clone the repository: git clone https://github.com/umut-alaras/weather-app.git
+1. Clone the repository: git clone https://github.com/UmutAlaras/Weather-App.git
 2. Open the project folder in your code editor.
 
 3. Open `index.html` in your web browser.
